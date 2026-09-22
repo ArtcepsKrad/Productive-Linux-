@@ -165,8 +165,84 @@ Restrictions could be automatically activated according to a schedule.
 
 These features addressed the problem I had encountered after moving to Linux.
 
-But there was still another problem:
 
-> **Movie**
 
-And that leads to the next stage of my journey — and eventually to the idea behind **Productive Linux**.
+
+# Movies & Productivity
+
+> **Why do movies interfere with productivity today, and can we enjoy them without letting them control our time?**
+
+## Where It Started
+
+I started with a simple question:
+
+**Why do movies seem harder to control today?**
+
+People watched movies in the 1980s, 1990s, and 2000s too.
+
+So the problem isn't that **movies suddenly became addictive**.
+
+Something about **how we consume them** changed.
+
+## What I Discovered
+
+The biggest difference is **friction**.
+
+Watching a movie used to require more steps between deciding to watch and actually watching it.
+
+Today, access is almost immediate.
+
+This made me interested in a different question:
+
+**Does the way we watch a movie affect how compatible it is with productivity?**
+
+## The Main Question
+
+Instead of asking:
+
+> **"Should I watch movies?"**
+
+I started asking:
+
+> **"Which way of watching movies creates the least interference with productive work?"**
+
+That changed the investigation from **whether movies are good or bad** to **how different consumption methods affect control over time**.
+
+## The Methodology
+
+I compared movie-watching methods using a few practical factors:
+
+* **Friction** — How much effort is required before watching?
+* **Accessibility** — How easily can I start watching?
+* **Impulse Risk** — How easy is it to watch when I didn't plan to?
+* **Continuation Risk** — How easy is it to immediately watch another?
+* **Time Control** — How predictable is the total time spent?
+* **Productivity Compatibility** — How well does the method fit around important work?
+
+## Comparison
+
+| Method                    | Friction    | Impulse Risk | Continuation Risk | Productivity Compatibility |
+| ------------------------- | ----------- | ------------ | ----------------- | -------------------------- |
+| **Scheduled Movie Night** | High        | 🟢 Very Low  | 🟢 Very Low       | 🟢 Very High               |
+| **Social Watching**       | Medium–High | 🟢 Low       | 🟢 Low            | 🟢 High                    |
+| **Television**            | Medium      | 🟢 Low       | 🟢 Low            | 🟢 High                    |
+| **Downloaded Movie**      | Medium      | 🟡 Medium    | 🟡 Medium         | 🟡 Moderate                |
+| **Streaming**             | Very Low    | 🔴 High      | 🔴 High           | 🔴 Low                     |
+
+The important observation is not that one method makes movies "good" and another makes them "bad."
+
+The important observation is:
+
+> **The more friction a method creates, the more deliberate the decision to watch tends to become.**
+
+## Current Principle
+
+> **Don't eliminate the movie.**
+>
+> **Choose a way of consuming it that keeps you in control of your time.**
+
+> **Scheduled Movie Night or Social Watching**
+
+
+
+
