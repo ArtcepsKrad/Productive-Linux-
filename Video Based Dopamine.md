@@ -74,17 +74,6 @@ My current approach is:
 
 > **Avoid video-based dopamine as much as reasonably possible.**
 
-Not because every video is bad.
-
-Video can be extremely useful for:
-
-* Learning technical skills
-* Tutorials
-* Lectures
-* Documentation
-* Demonstrations
-* High-skill development
-
 The problem is uncontrolled consumption.
 
 Therefore, the goal is **controlled access rather than absolute prohibition.**
